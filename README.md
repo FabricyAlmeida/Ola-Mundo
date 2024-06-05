@@ -2,4 +2,4 @@
  Primeiro repositorio da Fabrialmera/Service..
 
 
- Repositorio criado com proposito de Mostrar os Nossos Serviços e a nossas Experiencias Profissional.
+ Repositorio criado com propósito de mostrar os nossos serviços e a nossas Experiencias Profissional.
